@@ -6,17 +6,23 @@ A Publication class:
 - Required method:
     - calculate late fee
     - calculate due date
+    
+    
 A book class:
 - Required data:
     - author
     - title
     - how long can it be checked out
     - late fee per day late
+    
+    
 A magazine  class:
 - Required Data:
     - title
     - how long can it be checked out
     - late fee
+    
+    
 A Customer Class:
 - required data:
     - name
